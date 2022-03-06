@@ -1,4 +1,4 @@
-# UniCap: A Unified Perspective of Image Caption Generation
+# Non-autoregressive Image Caption Generation
 
-We aim to unify different image caption decoding stratgy with mask operation. 
+This reporsitory includes the implementation of different varants of non-autoregressive image captioning models.  
 
